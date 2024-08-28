@@ -3,4 +3,5 @@
 
 void kernel_main(void) {
     kprint("Welcome to OrichalcumOS!");
+    cls();
 }
